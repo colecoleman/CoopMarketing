@@ -1,209 +1,435 @@
 <template>
     <div class="terms-of-service">
         <h1>Terms of Service</h1>
-        <p class="last-updated"><em>Last Updated: February, 2025</em></p>
+        <p class="last-updated"><em>Last Updated: March, 2025</em></p>
 
         <section>
             <h2>1. Introduction</h2>
-            <p>Welcome to Coop, operated by Simple City Software, LLC ("we," "our," or "us"). By accessing or using the
-                Coop mobile application and website (collectively, the "Service"), you agree to be bound by these Terms
-                of Service ("Terms"). If you disagree with any part of these Terms, you may not access the Service.</p>
+            <p>Welcome to Coop - Local Goods, operated by Simple City Software, LLC ("Coop," "we," "our," or "us").
+                These Terms of Service ("Terms") govern your access to and use of the Coop mobile application and
+                website (collectively, the "Service"). By using the Service, you agree to comply with these Terms. If
+                you do not agree with these Terms, you may not use the Service.</p>
         </section>
 
         <section>
-            <h2>2. Account Registration</h2>
+            <h2>2. Account Registration & Eligibility</h2>
 
-            <h3>2.1 User Account</h3>
-            <p>To use certain features of our Service, you must register for an account. You agree to provide accurate,
-                current, and complete information during registration and to update such information to keep it
-                accurate, current, and complete.</p>
+            <h3>2.1 User Eligibility</h3>
+            <ul>
+                <li>You must be at least 18 years old to create an account and use Coop.</li>
+                <li>By using the platform, you confirm that you meet this requirement.</li>
+                <li>Coop does not knowingly allow minors to register or conduct transactions. If we become aware of an
+                    underage user, their account may be terminated.</li>
+            </ul>
 
-            <h3>2.2 Account Security</h3>
-            <p>You are responsible for safeguarding your password and for all activities that occur under your account.
-                You agree to notify us immediately of any unauthorized use of your account.</p>
+            <h3>2.2 User Account</h3>
+            <ul>
+                <li>To use certain features of the Service, you must register for an account.</li>
+                <li>You agree to provide accurate, current, and complete information during registration and to update
+                    such information as needed.</li>
+            </ul>
+
+            <h3>2.3 Account Security</h3>
+            <ul>
+                <li>You are responsible for safeguarding your password and all activities under your account.</li>
+                <li>You must notify us immediately of any unauthorized account use.</li>
+            </ul>
         </section>
 
         <section>
             <h2>3. Marketplace Terms</h2>
 
             <h3>3.1 Role of Coop</h3>
-            <p>Coop serves as a platform that connects local food producers ("Vendors") with consumers. We do not own or
-                possess any products offered through our Service.</p>
+            <ul>
+                <li>Coop is a platform that connects buyers and sellers. We do not own, store, inspect, verify, or take
+                    possession of any products listed.</li>
+                <li>Coop is not responsible for ensuring that any product listed is safe, legal, or compliant with
+                    applicable laws. Transactions and product compliance are the sole responsibility of the users.</li>
+                <li>Coop reserves the right to remove any listing at its discretion, including but not limited to those
+                    that violate these Terms, applicable laws, or that we determine, in our sole discretion, to be
+                    inappropriate, unsafe, or otherwise unsuitable for sale.</li>
+            </ul>
 
             <h3>3.2 Vendor Responsibilities</h3>
-            <p>Vendors are responsible for:</p>
+            <p>Vendors are solely responsible for:</p>
             <ul>
-                <li>Providing accurate information about their products</li>
-                <li>Ensuring products meet all applicable safety and quality standards</li>
-                <li>Compliance with all applicable laws and regulations regarding the production and sale of food
-                    products</li>
-                <li>Handling their own taxes and business obligations</li>
-                <li>Properly handling, storing, and delivering food products safely</li>
+                <li>Ensuring their products comply with all local, state, and federal laws.</li>
+                <li>Providing accurate descriptions and truthful representations of their products.</li>
+                <li>Following all health, safety, and licensing regulations related to food, livestock, or agricultural
+                    products.</li>
+                <li>Collecting and remitting applicable taxes.</li>
+                <li>Handling refunds, disputes, and customer inquiries directly with buyers.</li>
+                <li>Not listing prohibited, restricted, or inappropriate products (see Section 3.4).</li>
             </ul>
 
             <h3>3.3 Consumer Responsibilities</h3>
             <p>Consumers are responsible for:</p>
             <ul>
-                <li>Inspecting products before acceptance</li>
-                <li>Following any storage or preparation instructions provided by Vendors</li>
-                <li>Communicating directly with Vendors regarding any product issues</li>
+                <li>Inspecting products before purchase or consumption.</li>
+                <li>Understanding and complying with any laws applicable to purchasing certain goods (such as raw milk
+                    or livestock).</li>
+                <li>Handling disputes directly with the vendor—Coop does not mediate transactions.</li>
+                <li>Acknowledging that Coop does not verify the quality, legality, or safety of any product.</li>
             </ul>
 
-            <h3>3.4 Prohibited Products</h3>
-            <p>The following products may not be sold on Coop:</p>
+            <h3>3.4 Prohibited and Restricted Products</h3>
+            <p>Users may not list or sell the following products on Coop, including but not limited to:</p>
             <ul>
-                <li>Alcoholic beverages</li>
-                <li>Tobacco or tobacco-related products</li>
-                <li>Cannabis or cannabis-related products</li>
-                <li>Prescription medications</li>
-                <li>Products that violate intellectual property rights</li>
-                <li>Any products prohibited by local, state, or federal law</li>
+                <li>Illegal, stolen, or counterfeit goods.</li>
+                <li>Raw (unpasteurized) milk or raw dairy products in states where such sales are illegal.</li>
+                <li>Live animals, except as explicitly permitted under Section 3.5.</li>
+                <li>Alcohol, tobacco, cannabis, or prescription medications.</li>
+                <li>Weapons, explosives, or hazardous materials.</li>
+                <li>Products that violate intellectual property laws, including counterfeit or trademark-infringing
+                    goods.</li>
+                <li>Any item that violates federal, state, or local regulations.</li>
+                <li>Any product that Coop, in its sole discretion, determines to be inappropriate, dangerous, or
+                    otherwise unsuitable for sale on the platform.</li>
             </ul>
+
+            <h3>3.5 Live Animal Sales (If Allowed)</h3>
+            <p>If live animal sales are permitted on Coop, the following conditions apply:</p>
+            <ol>
+                <li>Vendors must comply with all applicable laws regarding the sale, transport, and treatment of
+                    animals.</li>
+                <li>No pet sales, auctions, or wildlife trafficking are allowed.</li>
+                <li>Vendors assume all responsibility for ensuring animal health, proper documentation, and ethical
+                    treatment.</li>
+                <li>Coop does not verify, inspect, or assume liability for disputes related to live animal transactions.
+                </li>
+            </ol>
+
+            <h3>3.6 Raw Milk and Dairy Sales (If Allowed)</h3>
+            <p>If raw milk sales are allowed, the following conditions apply:</p>
+            <ol>
+                <li>Vendors must verify that sales are legal in their state and comply with all licensing and labeling
+                    requirements.</li>
+                <li>Raw dairy must be clearly labeled as "RAW MILK – NOT PASTEURIZED."</li>
+                <li>Raw milk may not be sold across state lines due to federal restrictions.</li>
+                <li>Vendors assume all risks of selling raw dairy, including regulatory compliance and health-related
+                    claims.</li>
+                <li>Coop is not liable for illness, injury, or legal action related to raw dairy sales.</li>
+            </ol>
         </section>
 
         <section>
-            <h2>4. User Content</h2>
-
-            <h3>4.1 User-Generated Content</h3>
-            <p>You retain all rights to any content you submit, post, or display on or through the Service ("User
-                Content"). By posting User Content, you grant us a non-exclusive, royalty-free license to use,
-                reproduce, modify, and display such User Content in connection with the Service.</p>
-
-            <h3>4.2 Content Restrictions</h3>
-            <p>You agree not to post content that:</p>
+            <h2>4. Advertising</h2>
+            <p>By using the Service, you acknowledge and agree that:</p>
             <ul>
-                <li>Is illegal, harmful, threatening, abusive, or discriminatory</li>
-                <li>Infringes on another's intellectual property rights</li>
-                <li>Contains false or misleading information about food products</li>
-                <li>Contains personal or identifying information about others without permission</li>
+                <li>Coop may include advertising content within the platform, including but not limited to banner ads,
+                    sponsored listings, and promoted products.</li>
+                <li>Advertising may be targeted based on platform usage, user preferences, and other permitted data
+                    collection methods.</li>
+                <li>Coop does not endorse or guarantee any third-party advertisements displayed on the platform.</li>
+                <li>Coop reserves the right to modify, remove, or change advertising policies at its sole discretion.
+                </li>
             </ul>
         </section>
 
         <section>
-            <h2>5. Payments and Fees</h2>
-
-            <h3>5.1 Transaction Fees</h3>
-            <p>Coop may charge fees for certain transactions processed through the Service. All applicable fees will be
-                clearly disclosed.</p>
-
-            <h3>5.2 Subscription Services</h3>
-            <p>Coop offers a subscription service called "Coop Pro" for $10 per month, which provides vendors with
-                unlimited product listings. Free accounts may have limitations on the number of listings allowed.
-                Subscription terms, including billing cycles and cancellation policies, will be clearly disclosed at the
-                time of purchase.</p>
-
-            <h3>5.3 Payment Processing</h3>
-            <p>Payment processing services are provided by third-party payment processors. By using our Service, you
-                agree to be bound by the payment processor's terms of service.</p>
-
-            <h3>5.4 Taxes</h3>
-            <p>Vendors are responsible for determining and paying applicable taxes arising from the sale of their
-                products.</p>
+            <h2>5. Indemnification & Hold Harmless</h2>
+            <p>Users agree to indemnify, defend, and hold harmless Coop from any legal claims, damages, or liabilities,
+                including but not limited to:</p>
+            <ol>
+                <li>Legal actions related to the sale of prohibited, unsafe, or unregulated products.</li>
+                <li>Foodborne illness, injury, or damages caused by vendor products.</li>
+                <li>Intellectual property claims related to counterfeit or trademark-infringing goods.</li>
+            </ol>
+            <p>If Coop incurs legal costs due to user actions, the user is responsible for covering those costs.</p>
         </section>
 
         <section>
-            <h2>6. Cancellations and Refunds</h2>
-
-            <h3>6.1 Order Cancellation</h3>
-            <p>Policies regarding order cancellation are set by individual Vendors. Consumers should review these
-                policies before placing an order.</p>
-
-            <h3>6.2 Refunds</h3>
-            <p>Refund policies are set by individual Vendors. Coop encourages Vendors to have clear, fair refund
-                policies, particularly for issues related to product quality.</p>
-        </section>
-
-        <section>
-            <h2>7. Disclaimers and Limitation of Liability</h2>
-
-            <h3>7.1 Content Disclaimer</h3>
-            <p>WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY, RELIABILITY, COMPLETENESS, OR TIMELINESS OF
-                THE CONTENT POSTED BY USERS ON OUR SERVICE. ALL CONTENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
-                KIND. COOP DISCLAIMS ALL LIABILITY AND RESPONSIBILITY ARISING FROM ANY RELIANCE PLACED ON SUCH CONTENT
-                BY ANY USER OF OUR SERVICE.</p>
-
-            <h3>7.2 Food Safety Disclaimer</h3>
-            <p>COOP IS NOT RESPONSIBLE FOR THE QUALITY, SAFETY, OR LEGALITY OF PRODUCTS SOLD THROUGH OUR SERVICE.
-                CONSUMERS SHOULD USE THEIR OWN JUDGMENT WHEN PURCHASING AND CONSUMING FOOD PRODUCTS. COOP ASSUMES NO
-                RESPONSIBILITY FOR ANY ILLNESS, INJURY, OR HARM THAT MAY RESULT FROM THE CONSUMPTION OF PRODUCTS
-                PURCHASED THROUGH THE SERVICE.</p>
-
-            <h3>7.3 Limitation of Liability</h3>
-            <p>TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL COOP, SIMPLE CITY SOFTWARE, LLC, THEIR
-                DIRECTORS, EMPLOYEES, PARTNERS, AGENTS, SUPPLIERS, OR AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
-                SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, DATA, USE,
-                GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM:</p>
+            <h2>6. Governing Law, Disputes & Arbitration</h2>
             <ul>
-                <li>YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICE</li>
-                <li>ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICE</li>
-                <li>ANY CONTENT OBTAINED FROM THE SERVICE</li>
-                <li>UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT</li>
-                <li>FOOD SAFETY OR QUALITY ISSUES RELATED TO PRODUCTS PURCHASED THROUGH THE SERVICE</li>
-                <li>ANY PHYSICAL, MENTAL, EMOTIONAL, OR FINANCIAL HARM THAT MAY RESULT FROM YOUR USE OF THE SERVICE</li>
-                <li>ANY INTERACTIONS OR TRANSACTIONS BETWEEN USERS</li>
+                <li>This Agreement is governed by Missouri law.</li>
+                <li>All disputes must be resolved through binding arbitration in Missouri under the American Arbitration
+                    Association (AAA).</li>
+                <li>Users waive their right to sue Coop in court or participate in class-action lawsuits.</li>
             </ul>
-            <p>YOUR SOLE REMEDY FOR DISSATISFACTION WITH THE SERVICE IS TO STOP USING THE SERVICE.</p>
         </section>
 
         <section>
-            <h2>8. Indemnification</h2>
-            <p>You agree to defend, indemnify, and hold harmless Coop, its parent company, directors, employees, and
-                agents, from and against any claims, liabilities, damages, losses, and expenses, including, without
-                limitation, reasonable legal and accounting fees, arising out of or in any way connected with your
-                access to or use of the Service, your User Content, or your violation of these Terms.</p>
+            <h2>7. Right to Modify Terms</h2>
+            <p>Coop reserves the right to modify these Terms at any time. Continued use of the platform after changes
+                take effect constitutes acceptance of the updated Terms.</p>
         </section>
 
         <section>
-            <h2>9. Changes to Terms</h2>
-            <p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision
-                is material, we will provide at least 30 days' notice prior to any new terms taking effect. What
-                constitutes a material change will be determined at our sole discretion.</p>
+            <h2>8. Force Majeure</h2>
+            <p>Coop shall not be liable for any failure in service due to natural disasters, cyberattacks, government
+                actions, pandemics, or other unforeseen events.</p>
         </section>
 
         <section>
-            <h2>10. Governing Law</h2>
-            <p>These Terms shall be governed by and construed in accordance with the laws of the State of Missouri,
-                without regard to its conflict of law provisions.</p>
+            <h2>9. Agreement Acceptance</h2>
+            <p>By using Coop, you acknowledge that:</p>
+            <ul>
+                <li>✅ You have read, understand, and agree to these Terms.</li>
+                <li>✅ You assume all risks associated with purchases and sales made through Coop.</li>
+                <li>✅ Coop is not liable for disputes, legal violations, or damages related to transactions.</li>
+            </ul>
+        </section>
+    </div>
+    <div class="buyer-agreement">
+        <h1>Coop - Local Goods Buyer Agreement</h1>
+        <p class="last-updated"><em>Last Updated: March, 2025</em></p>
+
+        <section>
+            <h2>1. Buyer Responsibilities</h2>
+            <p>By using Coop to purchase products, you agree that you:</p>
+            <ul>
+                <li>Are solely responsible for verifying the safety, legality, and compliance of any product before
+                    purchasing or consuming it.</li>
+                <li>Understand that Coop does not inspect or verify product quality, legality, or vendor compliance.
+                </li>
+                <li>Are responsible for ensuring that the products you purchase comply with your state and local laws.
+                </li>
+                <li>Communicate directly with vendors regarding product details, delivery, refunds, and any concerns.
+                </li>
+                <li>Assume all risks associated with purchasing and consuming products listed on Coop.</li>
+                <li>Handle disputes and refund requests directly with the vendor—Coop does not process transactions or
+                    resolve disputes.</li>
+            </ul>
         </section>
 
         <section>
-            <h2>11. Advertising</h2>
-            <p>We may display advertisements on the Service. By using the Service, you agree to receive advertising
-                content. These advertisements may be targeted based on the nature of the Service, your use of the
-                Service, or other information as permitted by law.</p>
+            <h2>2. Prohibited Buyer Activities</h2>
+            <p>Buyers may not use Coop to:</p>
+            <ul>
+                <li>Purchase restricted or illegal products in violation of local, state, or federal laws.</li>
+                <li>Engage in fraudulent activities, chargebacks, or disputes not made in good faith.</li>
+                <li>Harass or threaten vendors or other users.</li>
+                <li>Attempt to resell counterfeit, restricted, or illegal products purchased through Coop.</li>
+            </ul>
+            <p>Coop reserves the right to suspend or terminate Buyer accounts at its discretion, including but not
+                limited to cases of fraudulent activity, violations of this Agreement, or conduct deemed inappropriate
+                for the platform.</p>
         </section>
 
         <section>
-            <h2>12. Contact Us</h2>
-            <p>If you have any questions about these Terms, please contact us at:</p>
-            <p>Email: support@coopcoop.co<br>
-                Address: Simple City Software, LLC, PO 1211, Marthasville, MO, 63357</p>
+            <h2>3. Transactions, Payments, and Refunds</h2>
+            <ul>
+                <li>All transactions occur directly between Buyers and Vendors—Coop does not process payments or collect
+                    funds on behalf of vendors.</li>
+                <li>Refund and return policies are set by individual Vendors, and Buyers must resolve issues with the
+                    Vendor directly.</li>
+                <li>Coop is not responsible for product availability, misrepresentations, defects, delivery issues, or
+                    refunds.</li>
+            </ul>
         </section>
 
         <section>
-            <h2>13. Termination</h2>
-            <p>We may terminate or suspend your account and access to the Service immediately, without prior notice or
-                liability, for any reason whatsoever, including without limitation if you breach the Terms.</p>
+            <h2>4. Assumption of Risk</h2>
+            <p>By using Coop, you acknowledge that:</p>
+            <ul>
+                <li>Coop does not guarantee the safety, quality, or legality of products listed by Vendors.</li>
+                <li>Raw milk, live animals, homemade foods, and other agricultural products carry inherent risks. Buyers
+                    assume all risks associated with purchasing and consuming these items.</li>
+                <li>Foodborne illnesses, allergies, and product defects are the sole responsibility of the vendor.</li>
+                <li>Livestock purchases are final, and Coop does not verify animal health, breed, or conditions.</li>
+                <li>Coop is not liable for any damages, injuries, or losses resulting from purchases made through the
+                    platform.</li>
+            </ul>
         </section>
 
         <section>
-            <h2>14. Class Action Waiver</h2>
-            <p>YOU AND SIMPLE CITY SOFTWARE, LLC AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS
-                INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE
-                ACTION.</p>
+            <h2>5. State Law Compliance Disclaimer</h2>
+            <p>Buyers acknowledge that state laws vary regarding the sale of certain goods, including but not limited to
+                raw milk, live animals, homemade food, and other regulated products. Coop does not provide legal advice
+                or guarantee compliance with state or federal laws.</p>
+            <p>By purchasing products through Coop, Buyers agree that they are responsible for ensuring that their
+                purchases comply with all applicable state, local, and federal laws.</p>
+            <p>If a Buyer purchases a product that violates a local, state, or federal law, the Buyer assumes all
+                responsibility for any fines, legal penalties, or regulatory actions that may result. Coop assumes no
+                liability for state law violations by Buyers.</p>
+            <p>Coop reserves the right to remove any listing at its discretion, including but not limited to those that
+                violate local, state, or federal laws.</p>
         </section>
 
         <section>
-            <h2>15. Severability</h2>
-            <p>If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed
-                and interpreted to accomplish the objectives of such provision to the greatest extent possible under
-                applicable law, and the remaining provisions will continue in full force and effect.</p>
+            <h2>6. Indemnification & Hold Harmless</h2>
+            <p>Buyers agree to indemnify, defend, and hold harmless Coop from any legal claims, damages, or liabilities,
+                including but not limited to:</p>
+            <ol>
+                <li>Legal actions related to the purchase, consumption, or resale of products obtained through Coop.
+                </li>
+                <li>Health-related claims, including foodborne illnesses, allergic reactions, or livestock-related
+                    injuries.</li>
+                <li>Disputes with Vendors regarding product quality, refunds, or misrepresentation.</li>
+            </ol>
+            <p>If Coop incurs legal costs due to Buyer actions, the Buyer is responsible for covering those costs.</p>
         </section>
 
         <section>
-            <h2>16. Entire Agreement</h2>
-            <p>These Terms constitute the entire agreement between you and us regarding your use of the Service,
-                superseding any prior agreements between you and us relating to your use of the Service.</p>
+            <h2>7. Governing Law, Disputes & Arbitration</h2>
+            <ul>
+                <li>This Agreement is governed by Missouri law.</li>
+                <li>All disputes must be resolved through binding arbitration in Missouri under the American Arbitration
+                    Association (AAA).</li>
+                <li>Buyers waive their right to sue Coop in court or participate in class-action lawsuits.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>8. Right to Modify Terms</h2>
+            <p>Coop reserves the right to modify this Buyer Agreement at any time. Continued use of the platform after
+                changes take effect constitutes acceptance of the updated Terms.</p>
+        </section>
+
+        <section>
+            <h2>9. Force Majeure</h2>
+            <p>Coop shall not be liable for any failure in service due to natural disasters, cyberattacks, government
+                actions, pandemics, or other unforeseen events.</p>
+        </section>
+
+        <section>
+            <h2>10. Agreement Acceptance</h2>
+            <p>By purchasing or attempting to purchase items through Coop, you acknowledge that:</p>
+            <ul>
+                <li>✅ You have read, understand, and agree to this Buyer Agreement.</li>
+                <li>✅ You assume all risks associated with purchases made through Coop.</li>
+                <li>✅ Coop is not liable for disputes, legal violations, or damages related to your purchases.</li>
+            </ul>
+        </section>
+    </div>
+    <div class="seller-agreement">
+        <h1>Coop - Local Goods Vendor Agreement</h1>
+        <p class="last-updated"><em>Last Updated: March, 2025</em></p>
+
+        <section>
+            <h2>1. Vendor Responsibilities</h2>
+            <p>By listing products on Coop, you agree that you:</p>
+            <ol>
+                <li>Are solely responsible for complying with all applicable federal, state, and local laws regarding
+                    product sales, labeling, and business operations.</li>
+                <li>Ensure all products listed for sale are legal, safe, and accurately described.</li>
+                <li>Handle all transactions, refunds, and disputes directly with buyers—Coop does not process orders or
+                    payments.</li>
+                <li>Collect and remit all applicable taxes associated with your sales.</li>
+                <li>Indemnify Coop against any legal claims related to your products (see Section 7).</li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>2. Prohibited and Restricted Products</h2>
+            <p>Vendors may not list or sell the following products on Coop, including but not limited to:</p>
+            <ul>
+                <li>Illegal, stolen, or counterfeit goods.</li>
+                <li>Raw (unpasteurized) milk or raw dairy products in states where sales are illegal.</li>
+                <li>Live animals, except as explicitly permitted under Section 3.</li>
+                <li>Alcohol, tobacco, cannabis, or prescription medications.</li>
+                <li>Weapons, explosives, or hazardous materials.</li>
+                <li>Products that violate intellectual property laws, including counterfeit or trademark-infringing
+                    goods.</li>
+                <li>Any item that violates federal, state, or local regulations.</li>
+                <li>Any product that Coop, in its sole discretion, determines to be inappropriate, dangerous, or
+                    otherwise unsuitable for sale on the platform.</li>
+            </ul>
+
+            <h3>2.1 Vendor Accountability for Prohibited Listings</h3>
+            <ul>
+                <li>Coop reserves the right to remove any listing at its discretion, including but not limited to those
+                    that violate these Terms or applicable laws.</li>
+                <li>If a Vendor knowingly lists illegal, misrepresented, fraudulent, or restricted items, they are fully
+                    liable for any legal consequences, including but not limited to fines, penalties, and lawsuits.</li>
+                <li>Vendors agree to reimburse Coop for any legal expenses incurred as a result of their violation of
+                    this Agreement.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>3. Live Animal Sales (If Allowed)</h2>
+            <p>If live animal sales are permitted on Coop, Vendors must:</p>
+            <ol>
+                <li>Ensure compliance with all laws regarding the sale, transport, and treatment of animals.</li>
+                <li>Provide truthful, accurate descriptions of all live animals listed.</li>
+                <li>Ensure humane treatment and proper care before transfer.</li>
+                <li>Understand that Coop does not verify, inspect, or assume liability for disputes related to live
+                    animal transactions.</li>
+                <li>Acknowledge that no pet sales, auctions, or wildlife trafficking are allowed.</li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>4. Raw Milk and Dairy Sales (If Allowed)</h2>
+            <p>If raw milk sales are allowed, Vendors must:</p>
+            <ol>
+                <li>Verify that sales are legal in their state and follow all licensing and labeling requirements.</li>
+                <li>Clearly label raw dairy as "RAW MILK – NOT PASTEURIZED."</li>
+                <li>Not sell across state lines (federal law prohibits this).</li>
+                <li>Accept full responsibility for all regulatory compliance and health-related claims.</li>
+                <li>Acknowledge that Coop is not liable for illness, injury, or legal action related to raw dairy sales.
+                </li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>5. State Law Compliance Disclaimer</h2>
+            <p>Vendors acknowledge that state laws vary regarding the sale of certain goods, including but not limited
+                to raw milk, live animals, homemade food, and other regulated products. Coop does not provide legal
+                advice or guarantee compliance with state or federal laws.</p>
+            <p>By listing products on Coop, Vendors agree that they are solely responsible for ensuring that their
+                products comply with all applicable state, local, and federal laws.</p>
+            <p>If any product listed on Coop violates a local, state, or federal law, the Vendor is solely responsible
+                for any fines, legal penalties, or regulatory actions that may result. Coop assumes no liability for
+                state law violations by Vendors.</p>
+            <p>Coop reserves the right to remove any listing at its discretion, including but not limited to those that
+                violate local, state, or federal laws.</p>
+        </section>
+
+        <section>
+            <h2>6. Transactions, Payments, and Refunds</h2>
+            <ul>
+                <li>Coop does not process payments—transactions are handled directly between Vendors and buyers.</li>
+                <li>Vendors must set and enforce their own refund and return policies.</li>
+                <li>Vendors are responsible for resolving disputes directly with buyers.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>7. Indemnification & Hold Harmless</h2>
+            <p>Vendors agree to indemnify, defend, and hold harmless Coop from any legal claims, damages, or
+                liabilities,
+                including but not limited to:</p>
+            <ol>
+                <li>Legal actions related to the sale of prohibited, unsafe, or unregulated products.</li>
+                <li>Foodborne illness, injury, or damages caused by vendor products.</li>
+                <li>Intellectual property claims related to counterfeit or trademark-infringing goods.</li>
+            </ol>
+            <p>If Coop incurs legal costs due to vendor actions, the vendor is responsible for covering those costs.</p>
+        </section>
+
+        <section>
+            <h2>8. Governing Law, Disputes & Arbitration</h2>
+            <ul>
+                <li>This Agreement is governed by Missouri law.</li>
+                <li>All disputes must be resolved through binding arbitration in Missouri under the American Arbitration
+                    Association (AAA).</li>
+                <li>Vendors waive their right to sue Coop in court or participate in class-action lawsuits.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>9. Right to Modify Terms</h2>
+            <p>Coop reserves the right to modify this Vendor Agreement at any time. Continued use of the platform after
+                changes
+                take effect constitutes acceptance of the updated Terms.</p>
+        </section>
+
+        <section>
+            <h2>10. Force Majeure</h2>
+            <p>Coop shall not be liable for any failure in service due to natural disasters, cyberattacks, government
+                actions, pandemics, or other unforeseen events.</p>
+        </section>
+
+        <section>
+            <h2>11. Agreement Acceptance</h2>
+            <p>By listing products on Coop, you acknowledge that:</p>
+            <ul>
+                <li>✅ You have read, understand, and agree to this Vendor Agreement.</li>
+                <li>✅ You are fully responsible for complying with all applicable laws.</li>
+                <li>✅ Coop is not liable for disputes, legal violations, or damages related to your listings.</li>
+            </ul>
         </section>
     </div>
 </template>
