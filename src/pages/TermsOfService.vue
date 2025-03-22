@@ -317,6 +317,7 @@
                 <li>Illegal, stolen, or counterfeit goods.</li>
                 <li>Raw (unpasteurized) milk or raw dairy products in states where sales are illegal.</li>
                 <li>Live animals, except as explicitly permitted under Section 3.</li>
+                <li>General services or non-tangible items.</li>
                 <li>Alcohol, tobacco, cannabis, or prescription medications.</li>
                 <li>Weapons, explosives, or hazardous materials.</li>
                 <li>Products that violate intellectual property laws, including counterfeit or trademark-infringing
