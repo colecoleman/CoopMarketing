@@ -169,6 +169,12 @@
                 <li>✅ Coop is not liable for disputes, legal violations, or damages related to transactions.</li>
             </ul>
         </section>
+
+        <a href="https://apps.apple.com/app/id6742427992">
+            <button><svg width="185" height="45" viewBox="0 0 185 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    // ... existing SVG code ...
+                </svg></button>
+        </a>
     </div>
     <div class="buyer-agreement">
         <h1>Coop - Local Goods Buyer Agreement</h1>
@@ -482,5 +488,13 @@ ul {
 
 li {
     margin-bottom: 0.5em;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
 }
 </style>
